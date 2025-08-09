@@ -29,23 +29,6 @@ A full-stack task management application designed for teams and individuals to e
 - Multer (for file uploads)
 - JWT Authentication
 
-## Project Structure
-root
-├── backend/ # Backend source code
-│ ├── config/ # Configuration files (DB, JWT, etc.)
-│ ├── controllers/ # API controllers
-│ ├── models/ # MongoDB schemas
-│ ├── routes/ # API routes
-│ └── utils/ # Helper functions
-│
-├── frontend/ # Frontend source code
-│ ├── components/ # Reusable UI components
-│ ├── context/ # React context providers
-│ ├── pages/ # Application pages
-│ └── utils/ # Utility constants and functions
-│
-└── README.md
-
 
 ## Core Functionalities
 
