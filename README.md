@@ -59,19 +59,19 @@ A full-stack task management application designed for teams and individuals to e
 - npm install
 
 ### **Install frontend dependencies**
--cd frontend/Task-Manager
--npm install
+- cd frontend/Task-Manager
+- npm install
 
 ### **Set environment variables - Create a .env file in the backend directory:**
--MONGO_URI=
--JWT_SECRET=
--ADMIN_INVITE_TOKEN=
--PORT=
+- MONGO_URI=
+- JWT_SECRET=
+- ADMIN_INVITE_TOKEN=
+- PORT=
 
 ### **Run the backend**
--cd backend
--npm run dev
+- cd backend
+- npm run dev
 
 ### **Run the frontend**
--cd frontend/Task-Manager
--npm run dev
+- cd frontend/Task-Manager
+- npm run dev
