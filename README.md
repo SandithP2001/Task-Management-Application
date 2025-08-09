@@ -50,27 +50,28 @@ A full-stack task management application designed for teams and individuals to e
 
 ##  Installation & Setup
 
-1. **Clone the repository**
-      -git clone https://github.com/SandithP2001/Task-Management-Application
-      -cd task-management-app
-3. Install backend dependencies
-      -cd backend
-      -npm install
+### **Clone the repository**
+-git clone https://github.com/SandithP2001/Task-Management-Application.git
+-cd task-management-app
 
-5. Install frontend dependencies
-     -cd frontend/Task-Manager
-     -npm install
+### **Install backend dependencies**
+-cd backend
+-npm install
 
-7. Set environment variables - Create a .env file in the backend directory:
-  MONGO_URI=your_mongodb_connection_string
-  JWT_SECRET=your_jwt_secret
+### **Install frontend dependencies**
+-cd frontend/Task-Manager
+-npm install
 
-8. Run the application
+### **Set environment variables - Create a .env file in the backend directory:**
+-MONGO_URI=
+-JWT_SECRET=
+-ADMIN_INVITE_TOKEN=
+-PORT=
 
-Backend->
-  cd backend
-  npm run dev
+### **Run the backend**
+-cd backend
+-npm run dev
 
-Frontend->
-  cd frontend/Task-Manager
-  npm run dev
+### **Run the frontend**
+-cd frontend/Task-Manager
+-npm run dev
