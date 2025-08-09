@@ -51,7 +51,7 @@ A full-stack task management application designed for teams and individuals to e
 ##  Installation & Setup
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/task-management-app.git
+   git clone https://github.com/SandithP2001/Task-Management-Application
    cd task-management-app
 2. Install backend dependencies
   cd backend
