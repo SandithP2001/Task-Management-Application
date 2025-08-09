@@ -51,12 +51,12 @@ A full-stack task management application designed for teams and individuals to e
 ##  Installation & Setup
 
 ### **Clone the repository**
--git clone https://github.com/SandithP2001/Task-Management-Application.git
--cd task-management-app
+- git clone https://github.com/SandithP2001/Task-Management-Application.git
+- cd task-management-app
 
 ### **Install backend dependencies**
--cd backend
--npm install
+- cd backend
+- npm install
 
 ### **Install frontend dependencies**
 -cd frontend/Task-Manager
